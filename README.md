@@ -46,6 +46,8 @@ print("Intercept:",regr.intercept_)
 predictedCO2 = regr.predict([[3300,1300]])
 print("Predicted CO2 for the correspondig weight and volume",predictedCO2)
 
+
+
 ```
 ## Output:
 ![](multivariate.png)
